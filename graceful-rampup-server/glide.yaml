@@ -1,0 +1,4 @@
+package: graceful-rampup-server
+import:
+- package: github.com/gorilla/mux
+  version: ^1.8.0

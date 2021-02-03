@@ -1,0 +1,3 @@
+package: graceful-rampup-client
+import:
+- package: github.com/afex/hystrix-go
