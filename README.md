@@ -1,6 +1,6 @@
 # graceful-rampup-backoff
 
-## POC for Graveful Rampup and Backoff for external service calls using Hystrix circuit breaker
+## POC for Graceful Rampup and Backoff for external service calls using Hystrix circuit breaker
 
 ## How to set up
  1. clone the repo
